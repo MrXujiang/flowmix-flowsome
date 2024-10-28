@@ -6,7 +6,7 @@ Useful resources for creating apps and working with flow.
 
 > 总结市面上使用数最多, 最稳定可靠的开源工作流解决方案, 开源组件, 思维导图.
 
-## Flow Resolution
+## Flow Resolution(开源解决方案)
 
 - [flowmix/flow | 开源工作流解决方案](https://github.com/MrXujiang/flowmix-flow)
 
@@ -18,7 +18,7 @@ Useful resources for creating apps and working with flow.
 
 - [minder | 提供了节点编辑、样式定制、导出等功能](https://github.com/phase1geo/minder)
 
-## Flow Components
+## Flow Components(开源组件)
 
 - [antv/g6 | 开源工作流组件](https://github.com/antvis/G6)
 
