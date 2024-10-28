@@ -12,6 +12,12 @@ Useful resources for creating apps and working with flow.
 
 - [antv/x6 | 流程编排解决方案](https://github.com/antvis/X6)
 
+- [desktopnaotu | 百度脑图的本地化版本，支持多平台](https://github.com/naotu/desktopnaotu)
+
+- [teammapper | 一个简单的思维导图工具，支持团队成员之间的协作和分享](https://github.com/b310-digital/teammapper)
+
+- [minder | 提供了节点编辑、样式定制、导出等功能](https://github.com/phase1geo/minder)
+
 ## Flow Components
 
 - [antv/g6 | 开源工作流组件](https://github.com/antvis/G6)
@@ -25,6 +31,13 @@ Useful resources for creating apps and working with flow.
 - [simple-mind-map | 开源思维导图组件](https://github.com/wanglin2/mind-map)
 
 - [jsmind | 基于html5 canvas和svg的js思维导图类库](https://github.com/mindjs/mindjs)
+
+- [kityminder-editor | 曾是百度脑图的核心组件, 目前维护状态未知](/)
+
+- [markmap | 使用 markdown 语法编写思维导图](https://github.com/gera2ld/markmap)
+
+- [freeplane | 款用于 mind mapping、知识管理、项目管理的应用程序](https://github.com/freeplane/freeplane)
+
 
 
 ## Next Core Product
